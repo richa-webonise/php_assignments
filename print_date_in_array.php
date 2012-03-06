@@ -1,4 +1,4 @@
 <?php
-$curr_date = date("d-m-y");
+$curr_date = getdate();
 print_r($curr_date);
 ?>
