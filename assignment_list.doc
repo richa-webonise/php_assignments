@@ -51,7 +51,18 @@
 
 Assignment on Php Security PEAR PECL and Advance OOPS concept
 
-1) Write a programs to How to prevent every security attack
+1) Write a programs to How to prevent every security attack :
+1. XSS
+2. SQL Injection
+3. Spoofed Form Input
+4. CSRF
+5. File Uploads
+6. Including Files
+7. eval()
+8. Register Globals
+9. Magic Quotes
+10. Error Reporting
+11. Plain Text Passwords
 
 2) Install PEAR and PECL on your machine
 
